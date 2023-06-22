@@ -8,6 +8,8 @@
 # json(): Parses the response content as JSON and returns a Python dictionary.
 # headers: A dictionary containing the response headers.
 
+#Note: # use : https://httpbin.org/   for testing  ................
+
 
 # 1. Sending a GET request:
 
