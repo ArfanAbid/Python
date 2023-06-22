@@ -1,0 +1,5 @@
+Hello welcome to python family
+today we are learning IO in python
+5/12/2023    
+ Writing in Text file in append mode 
+ Writing in Text file in append mode 
